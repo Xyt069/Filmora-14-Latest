@@ -1,5 +1,5 @@
 # 🎬 Filmora 14
-Welcome to the realm of Filmora 14! ✂️ Here, you can access the free version of Filmora 14, an incredible tool for crafting and editing videos. Whether you’re just starting out or are a seasoned pro, Filmora 14 is packed with features to help you realize your creative visions.
+Welcome to the realm of Filmora 14! ✂️ Here, you can access the free version of Filmora 14, an incredible tool for crafting and editing videos. Whether you’re just starting out or are a seasoned pro, Filmora 14 is packed with features to help you realize your creative visions. 
  
 ## 📁 Repository Summary  
 - Name: Filmora 14  
