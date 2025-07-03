@@ -40,7 +40,7 @@ Always remember, the opportunities are limitless with Filmora 14 at your fingert
 
 ### Happy editing! ✂️🌟
 
-(<!-- Google tag (gtag.js) -->
+[1](<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17174816024">
 </script>
 <script>
