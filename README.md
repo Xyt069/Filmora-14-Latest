@@ -1,7 +1,7 @@
 # 🎬 Filmora 13
 Welcome to the realm of Filmora 14! ✂️ Here, you can access the free version of Filmora 14, an incredible tool for crafting and editing videos. Whether you’re just starting out or are a seasoned pro, Filmora 14 is packed with features to help you realize your creative visions.   
   
-## 📁 Repository Summary   
+## 📁 Repository Summary    
 - Name: Filmora-Free-Full-Version-PC    
 - About
 Tags: Filmora 13, Filmora 13 install guide, filmora 13 for free, free filmora 13, latest udpate filmora 13, filmora 14, filmora, wondershare filmora 13, filmora 13 key generator, download filmora 13, filmora download latest, video editing software, Filmora tutorial, Filmora effects, Wondershare Filmora reviews, Filmora video editor
